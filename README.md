@@ -35,4 +35,4 @@
 ## Screenshots -
 - Movie Searching App page
 
-![Movie Searching App](https://raw.githubusercontent.com/Alpha-santhosh/Movie-Searching-App/main/movie_searching_app.jpg)
+![Movie Searching App](https://github.com/shaikabdulcader/Movies-search-application/blob/main/public/assets/images/moviesearchapp.png?raw=true)
